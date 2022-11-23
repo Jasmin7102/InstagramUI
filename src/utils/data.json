@@ -1,0 +1,133 @@
+{
+  "status": true,
+  "code": 200,
+  "msg": "Successfully",
+  "response": [
+    {
+      "rail": "story",
+      "story": [
+        {
+          "id": 1,
+          "username": "harl_e_e_n_08",
+          "img": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "storySection": {
+            "imgUrl": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "username": "prkpaow",
+          "img": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "storySection": {
+            "imgUrl": "https://funkylife.in/wp-content/uploads/2022/04/Instagram-dp-292-1.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "username": "reet_kaur_1022",
+          "img": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "storySection": {
+            "imgUrl": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
+        },
+        {
+          "id": 4,
+          "username": "___.harshhh",
+          "img": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "storySection": {
+            "imgUrl": "https://hindify.org/wp-content/uploads/2022/06/love-photo.png"
+          }
+        }
+      ]
+    },
+    {
+      "rail": "post",
+      "post": [
+        {
+          "id": 1,
+          "username": "brittykitty",
+          "profilephoto": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+          "post": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto/header-10-funny-af.jpg",
+          "like": [
+            "brittykitty",
+            "harl_e_e_n_08",
+            "reet_kaur_1022",
+            "___.harshhh"
+          ],
+          "caption": "It's been a long day",
+          "commentSection": [
+            {
+              "comment": "that's so funny",
+              "user": "jasmin-99",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "hahahaha hilarious",
+              "user": "rahulkarasi",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "so freaking good",
+              "user": "reet_kaur_1022",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "ohh myy god, this is so funny",
+              "user": "prkpaow",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "HAHHAHHAHAHHAHAHHAH",
+              "user": "harl_e_e_n_08",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            }
+          ],
+
+          "famous": "https://img.icons8.com/fluency-systems-filled/48/null/instagram-check-mark.png"
+        },
+        {
+          "id": 2,
+          "username": "prkpaow",
+          "profilephoto": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "post": "https://i.pinimg.com/originals/e5/18/e7/e518e7333471db758c9c85acf3a0324a.jpg",
+          "caption": "Damn I made you laugh",
+          "like": [
+            "brittykitty",
+            "harl_e_e_n_08",
+            "rahulkarasi",
+            "ishita_bhardwaj",
+            "reet_kaur_1022",
+            "prkpaow"
+          ],
+          "commentSection": [
+            {
+              "comment": "that's so funny",
+              "user": "jasmin-99",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "hahahaha hilarious",
+              "user": "rahulkarasi",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "so freaking good",
+              "user": "reet_kaur_1022",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "ohh myy god, this is so funny",
+              "user": "prkpaow",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            },
+            {
+              "comment": "HAHHAHHAHAHHAHAHHAH",
+              "user": "harl_e_e_n_08",
+              "url": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

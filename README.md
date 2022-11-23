@@ -2,7 +2,6 @@
 
 UI Screenshots:
 
-IOS:
 1.
 
 <img width="200" alt="Screenshot 2022-11-23 at 4 31 55 PM" src="https://user-images.githubusercontent.com/56545525/203536842-a55759a7-ac9c-4f60-8baa-04136ab1d239.png">
